@@ -1,0 +1,8 @@
+.chart__menu {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.chart {
+  margin-top: 1em;
+}

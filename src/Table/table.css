@@ -1,0 +1,18 @@
+.table__container {
+  overflow-x: scroll;
+}
+
+.table__literal {
+  font-size: 1em;
+}
+
+.table__literal td {
+  border: thin dotted lightgray;
+  padding: 0;
+}
+
+@media (min-width: 1018px) {
+  .table__container {
+    overflow-x: initial;
+  }
+}
